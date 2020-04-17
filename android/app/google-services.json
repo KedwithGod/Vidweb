@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763289050887",
+    "firebase_url": "https://video-web-4be29.firebaseio.com",
+    "project_id": "video-web-4be29",
+    "storage_bucket": "video-web-4be29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763289050887:android:973abaaf1568ee19dbafa2",
+        "android_client_info": {
+          "package_name": "com.example.vidweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763289050887-0f13dut4tj03usuild1ioi4q9n84jm94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVfojt0tAPDpatu1E-ADc3eqjXy5GM0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763289050887-0f13dut4tj03usuild1ioi4q9n84jm94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
